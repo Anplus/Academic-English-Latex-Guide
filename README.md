@@ -1,4 +1,4 @@
-# Academic-English-Guide-CS
+# Academic-English-Latex-Guide
 
 利用这个仓库整理一下个人学术写作的英文语料，以及Latex写作的语法。
 
@@ -17,3 +17,7 @@
 
 3. Bibliography工具
 - https://ac.scmor.com/ 谷歌学术镜像
+
+4. PDF工具
+- https://pdfresizer.com/crop PDF裁剪工具
+- http://www.balesio.com/fileminimizersuite/eng/index.php 文件压缩工具
